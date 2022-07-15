@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ryan
+- 👋 I’m Ryan
 - 🔍 I’m interested in computer science, software development, film, basketball, football, geopolitics, biology and investing
-- 🌱 I’m currently learning about web development
+- 🌱 I’m currently learning full-stack web development
 - 📬 You can reach me at @RyanPunwasi on Twitter
 
 <!---
